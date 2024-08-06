@@ -4,7 +4,7 @@ Ex:
 Nome do Funcionário: Maria do Carmo
 Salário: 1850,45
 O funcionário Maria do Carmo tem um salário de R$1850,45 em junho.*/
-package ex001;
+package Exercícios_Algoritmo_JAVA;
 import java.util.Scanner;
 public class ex003 {
 public static void main(String[] args){

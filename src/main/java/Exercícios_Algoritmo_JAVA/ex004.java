@@ -4,7 +4,7 @@
 //Digite um valor: 8
 //Digite outro valor: 5
 //A soma entre 8 e 5 é igual a 13.
-package ex001;
+package Exercícios_Algoritmo_JAVA;
 import java.util.Scanner;
 public class ex004 {
     public static void  main(String[]args){

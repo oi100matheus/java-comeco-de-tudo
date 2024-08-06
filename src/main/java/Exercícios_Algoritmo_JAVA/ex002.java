@@ -2,8 +2,7 @@
 Ex:
 Qual é o seu nome? João da Silva
 Olá João da Silva, é um prazer te conhecer!*/
-package ex001;
-import java.sql.SQLOutput;
+package Exercícios_Algoritmo_JAVA;
 import java.util.Scanner;
 public class ex002 {
     public static void  main(String[]args){
